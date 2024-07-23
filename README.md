@@ -1,4 +1,4 @@
-[![MasteHead](https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2023/12/top-github-program-languages-1024x768.jpg)]
+
 
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
 <h3 align="center">I am Ashish Sharma, currently pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering (CSE). With a strong foundation in computer science principles and a passion for coding, I have developed proficiency in several programming languages, including C, C++, Java, and Python. My educational journey has equipped me with the technical skills and analytical mindset necessary to tackle complex problems and develop innovative solutions.</h3>
