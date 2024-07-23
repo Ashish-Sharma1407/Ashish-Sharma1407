@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
 <h3 align="center">I am Ashish Sharma, currently pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering (CSE). With a strong foundation in computer science principles and a passion for coding, I have developed proficiency in several programming languages, including C, C++, Java, and Python. My educational journey has equipped me with the technical skills and analytical mindset necessary to tackle complex problems and develop innovative solutions.</h3>
 
-<img align= "right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpmZm82bWNyaG45NzljNjNoMGwyZHAyZ2pib25tNWxzc2NoYnJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align= "right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpmZm82bWNyaG45NzljNjNoMGwyZHAyZ2pib25tNWxzc2NoYnJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-sharma1407&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-sharma1407" /> </p>
 
