@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Animated pixel-art banner: a developer typing at a glowing monitor. Ashish. think, build, repeat." width="100%">
+<img src="hero.svg" alt="Animated pixel-art banner: a developer typing at a glowing monitor. Ashish. think, build, repeat." width="100%">
 
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 </div>
 
 ```text
@@ -38,17 +38,17 @@ $ ls ./projects
 ```
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 </div>
 
 ## Inventory
 
 <div align="center">
-<img src="assets/inventory.svg" alt="Inventory: Python, SQL, FastAPI, Git" width="100%">
+<img src="inventory.svg" alt="Inventory: Python, SQL, FastAPI, Git" width="100%">
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 </div>
 
 ## Player Stats
@@ -75,21 +75,21 @@ $ ls ./projects
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 </div>
 
 ## Connect Player 2
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ashish-sharma-751551268/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="58"></a>
-<a href="mailto:ashish.sharma.engineering@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="58"></a>
-<a href="https://leetcode.com/u/CodeWithAshish/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="58"></a>
+<a href="https://www.linkedin.com/in/ashish-sharma-751551268/"><img src="btn-linkedin.svg" alt="LinkedIn" height="58"></a>
+<a href="mailto:ashish.sharma.engineering@gmail.com"><img src="btn-email.svg" alt="Email" height="58"></a>
+<a href="https://leetcode.com/u/CodeWithAshish/"><img src="btn-leetcode.svg" alt="LeetCode" height="58"></a>
 
 </div>
 
 <div align="center">
-<img src="assets/walker.svg" alt="A pixel character walking toward a save disk" width="100%">
+<img src="walker.svg" alt="A pixel character walking toward a save disk" width="100%">
 </div>
 
 ```bash
