@@ -8,34 +8,9 @@
 <img src="divider.svg" alt="" width="100%">
 </div>
 
-```text
-+-[ ashish@dev-world ]---------------------------------------+
-|                                                            |
-| Hi, I'm Ashish.                                            |
-|                                                            |
-| I think the problem through, build it in Python,           |
-| back it with SQL, serve it with FastAPI and ship it        |
-| with Git. Then I do it all again.                          |
-|                                                            |
-+------------------------------------------------------------+
-```
-
-## $ whoami
-
-```bash
-$ whoami
-ashish
-
-$ cat identity.txt
-name     : Ashish
-motto    : think, build, repeat
-degree   : B.Tech CSE (AI & ML), Sharda University
-stack    : Python | SQL | FastAPI | Git
-status   : deploying my first projects
-
-$ ls ./projects
-[ loading... deployment in progress ]
-```
+<div align="center">
+<img src="terminal.svg" alt="Terminal: whoami. ashish. Hi, I'm Ashish. I think the problem through, build it in Python, back it with SQL, serve it with FastAPI and ship it with Git. name Ashish, motto think build repeat, degree B.Tech CSE (AI and ML) Sharda University, stack Python SQL FastAPI Git, status deploying my first projects." width="100%">
+</div>
 
 <div align="center">
 <img src="divider.svg" alt="" width="100%">
