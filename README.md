@@ -44,7 +44,7 @@ $ ls ./projects
 ## Inventory
 
 <div align="center">
-<img src="inventory.svg" alt="Inventory: Python, SQL, FastAPI, Git" width="100%">
+<img src="inventory-v2.svg" alt="Inventory: Python, SQL, FastAPI, Git" width="100%">
 </div>
 
 <div align="center">
