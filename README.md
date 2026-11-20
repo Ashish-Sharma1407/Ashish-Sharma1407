@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img src="terminal.svg" alt="Terminal: whoami. ashish. Hi, I'm Ashish. I think the problem through, build it in Python, back it with SQL, serve it with FastAPI and ship it with Git. name Ashish, motto think build repeat, degree B.Tech CSE (AI and ML) Sharda University, stack Python SQL FastAPI Git, status deploying my first projects." width="100%">
+<img src="terminal-v2.svg" alt="Terminal: whoami. ashish. Hi, I'm Ashish. I think the problem through, build it in Python, back it with SQL, serve it with FastAPI and ship it with Git. name Ashish, motto think build repeat, degree B.Tech CSE (AI and ML) Sharda University, stack Python SQL FastAPI Git, status deploying my first projects." width="100%">
 </div>
 
 <div align="center">
